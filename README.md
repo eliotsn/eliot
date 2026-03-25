@@ -5,14 +5,14 @@
 
 🎓 Futur **BTS SIO SISR**  
 💻 Passionné par les **Systèmes & Réseaux**  
-📍 Basé à **France**  
+📍 Basé à **Lyon**  
 🚀 Actuellement en **recherche d’alternance pour 2026**
 
 ---
 
 ## 📬 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/eliot-soussin/))  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@gmail.com)
 
 ---
